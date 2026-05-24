@@ -1,0 +1,12 @@
+DNS Testing Started at Tuesday 05 August 2025 12:09:17 AM IST
+================================================
+
+Testing domain: cloudflare.com
+Domain,Run,TW1,TW29,Client_RTT_ms,Status
+----------------------------------------
+cloudflare.com,1,1754332759.051125,1754332759.521538,470.41,SUCCESS
+cloudflare.com,2,1754332762.726326,1754332762.750002,23.67,SUCCESS
+cloudflare.com,3,1754332765.956838,1754332765.974567,17.72,SUCCESS
+cloudflare.com,4,1754332769.180606,1754332769.197734,17.12,SUCCESS
+cloudflare.com,5,1754332772.409280,1754332772.426532,17.25,SUCCESS
+cloudflare.com,6,1754332775.620508,1754332775.640093,19.58,SUCCESS

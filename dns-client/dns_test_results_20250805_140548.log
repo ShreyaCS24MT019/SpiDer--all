@@ -1,0 +1,7 @@
+DNS Testing Started at Tuesday 05 August 2025 02:05:48 PM IST
+================================================
+
+Testing domain: roydns.xyz
+Domain,Run,TW1,TW29,Client_RTT_ms,Status
+----------------------------------------
+roydns.xyz,1,1754382949.790911,,N/A,FAILED
