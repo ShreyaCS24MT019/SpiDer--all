@@ -1,0 +1,8 @@
+Minimal ANS Monitoring Started at Fri Jul 18 06:24:06 UTC 2025
+============================================
+Timestamp,Domain,Run,TW12,TW13,TW14,TW15,TW16,TW17,TW18,ANS_RTT_ms,Process_ms,Response_ms,Status
+
+=== MINIMAL ANS MONITORING SUMMARY ===
+Total requests processed: 0
+Successful requests: 0
+Monitoring ended at: Fri Jul 18 06:25:15 UTC 2025
