@@ -1,0 +1,10 @@
+RR Monitoring Started at Tue Aug  5 12:11:12 AM IST 2025
+================================================
+Timestamp,Domain,Run,TW6,TW7,TW8,TW9,TW10,TW11,TW12,TW13,TW19,TW20,TW21,TW22,TW23,TW24,RR_RTT_ms,Status
+
+=== RR MONITORING SUMMARY ===
+Total requests processed: 0
+Successful requests: 0
+Custom domain requests (roydns.xyz): 0
+Global domain requests: 0
+Monitoring ended at: Tue Aug  5 12:14:11 AM IST 2025

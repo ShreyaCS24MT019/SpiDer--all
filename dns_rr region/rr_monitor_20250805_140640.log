@@ -1,0 +1,10 @@
+RR Monitoring Started at Tue Aug  5 02:06:40 PM IST 2025
+================================================
+Timestamp,Domain,Run,Type,TW6,TW7,TW8,TW9,TW11,TW12,TW13,TW14,TW19,TW20,TW21,TW22_ANS_decrypt_end,TW22,TW23,TW24,RR_RTT_ms,PowerDNS_RTT_ms,ANS_RTT_ms,Status
+
+=== RR MONITORING SUMMARY ===
+Total requests processed: 0
+Successful requests: 0
+Custom domain requests: 0
+Global domain requests: 0
+Monitoring ended at: Tue Aug  5 02:07:18 PM IST 2025
